@@ -1,0 +1,1 @@
+int(input("Indica cuántos términos fraccionarios quieres que se sumen"))
